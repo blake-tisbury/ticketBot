@@ -1,0 +1,2 @@
+# ticketBot
+Discord ticket bot.
